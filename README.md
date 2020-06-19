@@ -1,2 +1,2 @@
 #intro to jquery by digital innovation one
-olar
+These are my notes on JQuery course by digital innovation one
